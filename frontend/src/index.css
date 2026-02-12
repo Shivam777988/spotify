@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+/* index.css */
+.spotify-bg {
+  background-color: #191414;
+}
+
+.spotify-green {
+  color: #1DB954;
+}
+
+.spotify-btn {
+  background-color: #1DB954;
+  color: white;
+}
+.spotify-sebg{
+  background-color:#27292b;
+}
+.spotify-btn:hover {
+  background-color: #1ed760; /* slightly brighter green for hover */
+}
+.spot{
+  background-color:#0A0808;
+}
